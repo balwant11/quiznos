@@ -1,151 +1,144 @@
 {
   "business": {
-    "name": "Atelier Garment Exporters",
-    "phone": "+91 44 2815 9000",
-    "email": "inquiries@ateliergarments.com",
-    "address": "Atelier Towers, Sector 4, KASEZ, Chennai, Tamil Nadu 600096, India",
-    "yearEstablished": "1994",
-    "capacity": "2.4 Million Garments Annually"
+    "name": "Quiznos",
+    "full_address": "201 N Los Angeles St STE 22, Los Angeles, CA 90012, USA",
+    "phone": "+1 213-995-3100",
+    "local_phone": "(213) 995-3100",
+    "website": "https://www.quiznos.com/?olonwp=jjbtp_vmlk25gkyh_bnoiq",
+    "rating": 3.5,
+    "total_reviews": 79,
+    "business_status": "OPERATIONAL",
+    "google_maps_url": "https://maps.google.com/?cid=10135531382606739228",
+    "price_level": 1,
+    "editorial_summary": "Known for toasted, build-your-own subs, this counter-serve chain also sells soups, salads & more.",
+    "lat": 34.0542564,
+    "lng": -118.2410812,
+    "open_now": false,
+    "weekday_hours": [
+      "Monday: 8:00 AM – 4:00 PM",
+      "Tuesday: 8:00 AM – 4:00 PM",
+      "Wednesday: 8:00 AM – 4:00 PM",
+      "Thursday: 8:00 AM – 4:00 PM",
+      "Friday: 8:00 AM – 4:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "reviews": [
+      {
+        "author_name": "Peter X",
+        "rating": 4,
+        "review": "I stopped by here for lunch because I was across the street being a juror for Jury Duty. I wanted something close and I saw this Quiznos was across the street so I figure to come here to try it. This place is not really hidden inside the Los Angeles Mall, you just walk down the stairs and you'll see it in the corner. They weren't that busy during lunch time so I was able to basically walked in and place my order. I got the Ultimate Turkey Breast 8in sandwich and it was pretty decent. They don't give that much turkey breast like subway but it is what it is. I ate my food inside the store because it was covered and had AC inside. The customer service I received was good, I didn't have any issues during my experience.",
+        "time_ago": "3 years ago"
+      },
+      {
+        "author_name": "Josey Super",
+        "rating": 2,
+        "review": "One of the last Quiznos left in LA. And honestly, its a shame because the quality and flavors are incomparable. The hours are terrible and inaccurate. They were closed a whole hour before the time on google. Very disappointing.",
+        "time_ago": "7 months ago"
+      },
+      {
+        "author_name": "Peter Kim",
+        "rating": 1,
+        "review": "This is supposed to be a meat ball. The last bite of meat ball sub was grainny and very dry. I don't think it's from toasting process. I think the meat ball was in the container for long time. I hope I wouldn't get sick from it. Last time I ever go to this place.",
+        "time_ago": "5 years ago"
+      }
+    ],
+    "photos": [
+      {
+        "width": 2048,
+        "height": 1536,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-vlbpMrjwxbpQu6a1kEiDi5UPmKYcroelH-lferXJ9F_9Amnzrpp7NwMD43PdWTlPz9gxwbDETOe3_hvwPPNVVgmlH0zynuzVhpQ3Q7AiiHCsEWny1bzkDsVRgFmeJHhIm3axI6ZVUDjxQvZ2Rd0BXfsicEn8F5Q_nHXJ37lsWNSkS5wiRR0EV-uUXIobsnQK0x0_7c2D0qeTE5goF-vBojdCNu5ddvKbuKl5ki4JTZdHtrS-D8YD5UiC58MNZxUf9E8NS1rB9aZpNTLL_99MgaHq5z3gKXf6G010_eM78UoXIwWklN84x57BOAxK2B9K2ZzdNA9upOXmDAtcUYwmWBYJ3FY61Iq0O_zYnybe4ZdOoR_1i0HyyACGSRE8OjlWCATK8HI9s5GaD5Qx5M4ITXJosPiwvpoHtRIUrU_BVYXg&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 1972,
+        "height": 1109,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-u1MydNkBzSJzBdde8Ioag93TFzly4U0disBT20efn1muxl89fuBvdAt6VY9Clk1uyU4QkEgygnp5__bp44SWQ2LokrP5ILiBuxv4JB7f26Qr48su13S3Ub5I0yDsqisf0hTVXZL9P7MKGqhJjqM6FFN5a6KY2ec046gz7Jv031TDN3Ttw0SZMh242NBjLRQacWxI9ZFvGmXjc2cV3rFrM9hoxDXJfVEZghKoajDv93M_chyuOYRnOLD7RY1gZLp5qy4zgll-HQkvvj07gDSzoThQha1XeRJ4ZlmoqADmkWH1vvhfptvD3HqR9spt0Plvv4zU6QSqp0BbTxPzH-AwrOgkhIVc4SIIlbnFAZuL798QeuQaNpQqRnUsU0CZ4Cj3lklPz043G_kedWCmnwW5kD2VxtUfmVRmTu7gB_j7U&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-uox9AKyevBPARLbhUSKjOK-IFgD3f1ec-_Nq4cfOq9kl9mg8cxnPx5osw9ykY_c6u-nZomq4dYaeN_ECZadsRk1ZU8-JbsCrjqcw1Me5e9HW2Nzkb1dA35_Lld4gmlR1gu9uY5_5KUAvjW4ywB1_yVzI0uPzk0w7Fn9WbkMXf_DjKgP2NlmYNgWBuywY7dTp80Bs4Z4LLptuLNb2OJ-SoyHWVZ8NHZ0sgzxEqjYE8Acgx4gt_Q7h3BSgYyEI_6cdOcso72EmYVCUi_UmjDke-UD3trF3KY3QD6TAumMFVyrDQx9g_uPJ3ndke_A8ZhUwqK7owNFnstwU90ZOEm71Okysz7cndPqMuLL3ueX6h4zSDgc0bcrQJrvXGFruUt71D9hH220nozz6vSb_H0rghJPht2DxMgJ5m66T5yJsESKGMcSqCaddIrFkuq72yq&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-uckLyfYO3xapAZVcKXj_eUG5xBEtu81L5_Dq6LDg-rPrz0etrmQXbQ0yPsp297cJhYa02mHATrAyyHf5_zo43-tlRJjRyzoiMdbPDiNPwwVD_su4h7I9gumVzPrRlfTKa_1kPEqjMtk8k9QuozlL7Li8lYlBaV6oyYU4wDZyTJ5GVw7AUprT4n0d8yJeGn_P7QaXOcoUQwNXiuZ46cMoC2x9Fjyp8_l5Y0_4JF2x5YKbXJ4NfHVIvlTA2qVxz-jWSTVU-mjFZ9gvc1vMr3XlbNo-wboqq8sL18L1PaTJJ2sb2JZ9ymeaOupGlowi7kcs3Aa0Wabcu4hwS3VWs4SG2v39aQxAm0rlhXZOd1pvGSMoihKnvD273dwxp6XJ3f-I0TquA_TETfKLr80xVxPORpDMo1MUZw-dM4R3ZwbPg3ZDKDHE_ZSYNqwfN7RA&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-uK90e2Ag-v2g_phKyPJ_j5Udj6B2LP7Hgyeb-zRVR0rnEA5C6NdWNnyqqszxQp9HbFVfQNw9vtmnQXB7ECaNeKDnvDCjFxXlo6zZS8Vr3l144U4kEh2nwppKmUGlHGt481cBIJFRi5-Xl6Ur21XUgfexLfEweu3a85YqGXcRKPdQXzWaSO3jS3LH55XzU2kn4h772-PrCL8hTXXmSs40Id7mcSLYWEnmy80bPO2aCji3lLU8xe9jT2KZPjUpN7-PM1FIsZVS-yJlpU37JKLWloEn1-3yib3EP398jTTYV02LWtpg8tQg6X9yBp037yUNXBu4h6bIQBvLu2RqzU0Gq7khfeHhLfA1J3aB-f5DE5-z8HpyhlgjxELAsR-o8Iji0yx1OSrjc6LseyQBp6dsGHeiuK_S7gtstibJ3rPlkl2o0SlkPmNVNJvcGHuw&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sB4ogibFDc9zMwDztBiO9JDwRNU9ckaqsFqBSjjuwHTHzTH-j9yy6XjXBUTf5ma8-ePYk6s59uOR5E4lBvutRH4vl7u81Y3mBHOgPsBRsUZSUThz4nOcIG6F05ygA8LtYf-G788iH_FY7pJaYamjqQCa_NluDMoI-aITtW3mU9X2NyjUnjbBPNzdUWTxMp4eKmThIYsYtc_ARfQa9s8JgX5QrKJIGp7IFV1Q1YgApdXIYRYKaV0peRE3RW92CQbbzKkJ2SnbyCEJXiObdb7S-HglOjAlvQ-_cyzL2OohMWRMfZ2X3N7MT83nQgRNV86QhONVhO4zXqA3pgSdZS_yQwpykTpL3eBfWQzjQ8vlF0_6gXDEcBO-WIgLfkXwZE0diR7DTXrlszU5_Y-hMPLZedShD5P7RfDRpnfcTrwbWTeA&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+      }
+    ],
+    "main_photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-vlbpMrjwxbpQu6a1kEiDi5UPmKYcroelH-lferXJ9F_9Amnzrpp7NwMD43PdWTlPz9gxwbDETOe3_hvwPPNVVgmlH0zynuzVhpQ3Q7AiiHCsEWny1bzkDsVRgFmeJHhIm3axI6ZVUDjxQvZ2Rd0BXfsicEn8F5Q_nHXJ37lsWNSkS5wiRR0EV-uUXIobsnQK0x0_7c2D0qeTE5goF-vBojdCNu5ddvKbuKl5ki4JTZdHtrS-D8YD5UiC58MNZxUf9E8NS1rB9aZpNTLL_99MgaHq5z3gKXf6G010_eM78UoXIwWklN84x57BOAxK2B9K2ZzdNA9upOXmDAtcUYwmWBYJ3FY61Iq0O_zYnybe4ZdOoR_1i0HyyACGSRE8OjlWCATK8HI9s5GaD5Qx5M4ITXJosPiwvpoHtRIUrU_BVYXg&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
   },
   "website_config": {
-    "theme": "dark-editorial",
-    "navbarVariant": "glassmorphism",
-    "footerVariant": "editorial-footer",
+    "theme": "premium-minimal",
+    "navbarVariant": "centered-logo",
+    "footerVariant": "minimal-inline",
     "branding": {
-      "style": "Avant-Garde Studio",
-      "tone": "mysterious-luxurious"
+      "style": "modern",
+      "tone": "approachable"
     },
     "layout": {
       "sections": [
-        { "type": "Hero", "variant": "fullscreen-fashion" },
-        { "type": "About", "variant": "editorial-story" },
-        { "type": "Stats", "variant": "split-metrics" },
-        { "type": "Process", "variant": "image-process" },
-        { "type": "Reviews", "variant": "stacked-cards" },
-        { "type": "Contact", "variant": "dark-contact" }
+        {
+          "type": "Hero",
+          "variant": "editorial-split"
+        },
+        {
+          "type": "About",
+          "variant": "minimal-brand"
+        },
+        {
+          "type": "Gallery",
+          "variant": "carousel"
+        },
+        {
+          "type": "Reviews",
+          "variant": "stacked-cards"
+        },
+        {
+          "type": "Contact",
+          "variant": "minimal-contact"
+        }
       ]
     }
   },
   "website_content": {
     "hero": {
-      "tagline": "Architecting High-End Apparel for the World's Leading Fashion Houses",
-      "description": "Atelier Garment Exporters is a premier, luxury apparel and high-performance streetwear manufacturer. Running out of an advanced carbon-neutral facility in Chennai, India, we specialize in high-concept fashion export, working with elite global brands to bring conscious, couture-grade garment production to life at scale."
+      "title": "Crafted Excellence. Woven Dreams.",
+      "subtitle": "Experience the pinnacle of textile artistry and garment innovation.",
+      "primaryButton": "Explore Collections",
+      "secondaryButton": "Discover Our Craft"
     },
     "about": {
-      "title": "Crafting conscious garment solutions for the contemporary epoch.",
-      "description": "Atelier Garment Exporters works with elite global brands to bring conscious, couture-grade garment production to life at scale. Operating out of an advanced carbon-neutral facility in Chennai, India, we specialize in high-concept fashion export, zero liquid discharge dyeing, and 3D precision draping."
+      "title": "The Art of Textiles",
+      "description": "We are dedicated to the pursuit of exceptional textiles, where tradition meets innovation. Our commitment to quality and design defines every thread and every garment, creating timeless pieces for the discerning."
     },
-    "stats": [
-      { "value": "30+", "label": "Global Brands Supported" },
-      { "value": "2.4M", "label": "Annual Garments Shipped" },
-      { "value": "98%", "label": "Water Recycled in Dyeing" },
-      { "value": "100%", "label": "Ethical Labor Compliance" }
-    ],
-    "fabrics": [
-      {
-        "name": "Ultra-Heavyweight Loopback Terry",
-        "weight": "480 GSM",
-        "composition": "100% Organic Long-Staple Cotton",
-        "description": "Designed for premier luxury streetwear. Highly robust structure, immense softness, and a clean structured drape.",
-        "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?q=80&w=1600&auto=format&fit=crop"
-      },
-      {
-        "name": "Tailored Silk-Wool Blends",
-        "weight": "240 GSM",
-        "composition": "70% Virgin Wool / 30% Mulberry Silk",
-        "description": "Engineered for high-end luxury draping and soft structure. Breathable warmth with a natural subtle sheen.",
-        "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=1600&auto=format&fit=crop"
-      },
-      {
-        "name": "Technical Recycled Ripstop Nylon",
-        "weight": "110 GSM",
-        "composition": "100% GRS Recycled Post-Consumer Nylon",
-        "description": "Ultra-lightweight micro-ripstop with sustainable water-repellent coating. Engineered for performance outerwear.",
-        "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?q=80&w=1600&auto=format&fit=crop"
-      }
-    ],
-    "process": [
-      {
-        "step": "01",
-        "title": "Ethical Sourcing & Fiber Selection",
-        "description": "We secure superior long-staple organic cottons, sustainable wood-derived Tencel, and certified recycled technical fibers."
-      },
-      {
-        "step": "02",
-        "title": "Architectural Drafting & Pattern Modeling",
-        "description": "Collaborating closely with brand design teams, our engineers utilize advanced 3D pattern scanning for ultra-precise draping."
-      },
-      {
-        "step": "03",
-        "title": "Conscious Wet Processing",
-        "description": "Using high-efficiency low-liquor ratio dyeing machinery that recycles 98% of process water through zero liquid discharge systems."
-      },
-      {
-        "step": "04",
-        "title": "Craftsmanship-First Assembly",
-        "description": "Each line of stitching is managed by specialized artisans with decades of experience in working with high-end tailored garments."
-      }
-    ],
-    "gallery": [
-      {
-        "url": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?q=80&w=1600&auto=format&fit=crop",
-        "title": "Precision tailoring assembly line",
-        "category": "Facility"
-      },
-      {
-        "url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=1600&auto=format&fit=crop",
-        "title": "Premium fashion collection inspection",
-        "category": "Showcase"
-      },
-      {
-        "url": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?q=80&w=1600&auto=format&fit=crop",
-        "title": "Conscious textile washing",
-        "category": "Processing"
-      },
-      {
-        "url": "https://images.unsplash.com/photo-1479064555552-3ef4979f8908?q=80&w=1600&auto=format&fit=crop",
-        "title": "Artisanal quality stitching control",
-        "category": "Craftsmanship"
-      }
-    ],
-    "reviews": [
-      {
-        "quote": "Atelier Exporters changed how we look at technical outerwear production. Their precision pattern engineering matched our strict luxury blueprints perfectly, and their ethical traceability metrics are unparalleled in the global supply chain.",
-        "author": "Marcus Sterling",
-        "role": "Director of Sourcing, Sterling Outerwear (London)"
-      },
-      {
-        "quote": "In high-concept modern streetwear, fabric handfeel and weight are everything. Atelier's custom loopback terry is the finest on the market, period. Their execution of zero-liquid discharge dyeing is a blueprint for the future of apparel.",
-        "author": "Elena Rossi",
-        "role": "Head of Production, NVRMIND Collective (Milan)"
-      }
-    ],
-    "faq": [
-      {
-        "question": "What are your Minimum Order Quantities (MOQs)?",
-        "answer": "To maintain our rigorous craftsmanship controls, our standard MOQs are 1,000 units per style / 500 units per colorway. Custom fabric developments may require higher initial volumes depending on fiber sourcing requirements."
-      },
-      {
-        "question": "How do you trace your raw organic fibers?",
-        "answer": "Every shipment of raw material is fully documented with direct transaction certificates under Global Organic Textile Standard (GOTS) and OCS certification. We provide complete transparent supply-chain documentation directly to brand partners."
-      },
-      {
-        "question": "What are your standard shipping lead times?",
-        "answer": "Our normal production timeline spans 8 to 12 weeks from tech-pack signoff and fabric approval. We utilize highly direct ocean cargo corridors via Chennai Port and fast air-freight pathways to major EU/US logistics hubs."
-      }
-    ],
-    "cta": {
-      "title": "Secure Your Brand's Next Autumn/Winter Production Run",
-      "subtitle": "Production Allocation",
-      "description": "We are now accepting custom fabric developments and production contracts for the upcoming collection cycle."
+    "gallery": {
+      "title": "Visual Narratives",
+      "description": "Immerse yourself in the textures and artistry of our latest collections. Each image tells a story of meticulous design and unparalleled craftsmanship."
+    },
+    "reviews": {
+      "title": "Trusted by Visionaries",
+      "description": "Hear from those who appreciate the enduring quality and sophisticated design embedded in every creation. Their experiences reflect our dedication to excellence."
+    },
+    "contact": {
+      "title": "Connect With Us",
+      "description": "For bespoke inquiries, partnerships, or further information, our team is ready to assist. Reach out and let's craft something exceptional together.",
+      "buttonText": "Inquire Now"
     }
-  },
-  "seo": {
-    "title": "Atelier Garment Exporters | High-End Sustainable Apparel Manufacture",
-    "description": "Global, luxury garment and premium streetwear exporters. Operating dynamic carbon-neutral mills specializing in high-concept fashion, ethical organic fibers, and zero liquid discharge production."
-  },
-  "socials": {
-    "instagram": "https://instagram.com/ateliergarments",
-    "linkedin": "https://linkedin.com/company/atelier-garment-exporters"
   }
 }
