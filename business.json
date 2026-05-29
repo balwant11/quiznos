@@ -53,35 +53,35 @@
       {
         "width": 2048,
         "height": 1536,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-vlbpMrjwxbpQu6a1kEiDi5UPmKYcroelH-lferXJ9F_9Amnzrpp7NwMD43PdWTlPz9gxwbDETOe3_hvwPPNVVgmlH0zynuzVhpQ3Q7AiiHCsEWny1bzkDsVRgFmeJHhIm3axI6ZVUDjxQvZ2Rd0BXfsicEn8F5Q_nHXJ37lsWNSkS5wiRR0EV-uUXIobsnQK0x0_7c2D0qeTE5goF-vBojdCNu5ddvKbuKl5ki4JTZdHtrS-D8YD5UiC58MNZxUf9E8NS1rB9aZpNTLL_99MgaHq5z3gKXf6G010_eM78UoXIwWklN84x57BOAxK2B9K2ZzdNA9upOXmDAtcUYwmWBYJ3FY61Iq0O_zYnybe4ZdOoR_1i0HyyACGSRE8OjlWCATK8HI9s5GaD5Qx5M4ITXJosPiwvpoHtRIUrU_BVYXg&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/quinzos.jpg"
       },
       {
         "width": 1972,
         "height": 1109,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-u1MydNkBzSJzBdde8Ioag93TFzly4U0disBT20efn1muxl89fuBvdAt6VY9Clk1uyU4QkEgygnp5__bp44SWQ2LokrP5ILiBuxv4JB7f26Qr48su13S3Ub5I0yDsqisf0hTVXZL9P7MKGqhJjqM6FFN5a6KY2ec046gz7Jv031TDN3Ttw0SZMh242NBjLRQacWxI9ZFvGmXjc2cV3rFrM9hoxDXJfVEZghKoajDv93M_chyuOYRnOLD7RY1gZLp5qy4zgll-HQkvvj07gDSzoThQha1XeRJ4ZlmoqADmkWH1vvhfptvD3HqR9spt0Plvv4zU6QSqp0BbTxPzH-AwrOgkhIVc4SIIlbnFAZuL798QeuQaNpQqRnUsU0CZ4Cj3lklPz043G_kedWCmnwW5kD2VxtUfmVRmTu7gB_j7U&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/quinzos2.jpg"
       },
       {
         "width": 1200,
         "height": 800,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-uox9AKyevBPARLbhUSKjOK-IFgD3f1ec-_Nq4cfOq9kl9mg8cxnPx5osw9ykY_c6u-nZomq4dYaeN_ECZadsRk1ZU8-JbsCrjqcw1Me5e9HW2Nzkb1dA35_Lld4gmlR1gu9uY5_5KUAvjW4ywB1_yVzI0uPzk0w7Fn9WbkMXf_DjKgP2NlmYNgWBuywY7dTp80Bs4Z4LLptuLNb2OJ-SoyHWVZ8NHZ0sgzxEqjYE8Acgx4gt_Q7h3BSgYyEI_6cdOcso72EmYVCUi_UmjDke-UD3trF3KY3QD6TAumMFVyrDQx9g_uPJ3ndke_A8ZhUwqK7owNFnstwU90ZOEm71Okysz7cndPqMuLL3ueX6h4zSDgc0bcrQJrvXGFruUt71D9hH220nozz6vSb_H0rghJPht2DxMgJ5m66T5yJsESKGMcSqCaddIrFkuq72yq&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/quinzos3.jpg"
       },
       {
         "width": 1200,
         "height": 800,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-uckLyfYO3xapAZVcKXj_eUG5xBEtu81L5_Dq6LDg-rPrz0etrmQXbQ0yPsp297cJhYa02mHATrAyyHf5_zo43-tlRJjRyzoiMdbPDiNPwwVD_su4h7I9gumVzPrRlfTKa_1kPEqjMtk8k9QuozlL7Li8lYlBaV6oyYU4wDZyTJ5GVw7AUprT4n0d8yJeGn_P7QaXOcoUQwNXiuZ46cMoC2x9Fjyp8_l5Y0_4JF2x5YKbXJ4NfHVIvlTA2qVxz-jWSTVU-mjFZ9gvc1vMr3XlbNo-wboqq8sL18L1PaTJJ2sb2JZ9ymeaOupGlowi7kcs3Aa0Wabcu4hwS3VWs4SG2v39aQxAm0rlhXZOd1pvGSMoihKnvD273dwxp6XJ3f-I0TquA_TETfKLr80xVxPORpDMo1MUZw-dM4R3ZwbPg3ZDKDHE_ZSYNqwfN7RA&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/quinzos4.jpg"
       },
       {
         "width": 1200,
         "height": 800,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-uK90e2Ag-v2g_phKyPJ_j5Udj6B2LP7Hgyeb-zRVR0rnEA5C6NdWNnyqqszxQp9HbFVfQNw9vtmnQXB7ECaNeKDnvDCjFxXlo6zZS8Vr3l144U4kEh2nwppKmUGlHGt481cBIJFRi5-Xl6Ur21XUgfexLfEweu3a85YqGXcRKPdQXzWaSO3jS3LH55XzU2kn4h772-PrCL8hTXXmSs40Id7mcSLYWEnmy80bPO2aCji3lLU8xe9jT2KZPjUpN7-PM1FIsZVS-yJlpU37JKLWloEn1-3yib3EP398jTTYV02LWtpg8tQg6X9yBp037yUNXBu4h6bIQBvLu2RqzU0Gq7khfeHhLfA1J3aB-f5DE5-z8HpyhlgjxELAsR-o8Iji0yx1OSrjc6LseyQBp6dsGHeiuK_S7gtstibJ3rPlkl2o0SlkPmNVNJvcGHuw&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/quinzos5.jpg"
       },
       {
         "width": 1200,
         "height": 800,
-        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-sB4ogibFDc9zMwDztBiO9JDwRNU9ckaqsFqBSjjuwHTHzTH-j9yy6XjXBUTf5ma8-ePYk6s59uOR5E4lBvutRH4vl7u81Y3mBHOgPsBRsUZSUThz4nOcIG6F05ygA8LtYf-G788iH_FY7pJaYamjqQCa_NluDMoI-aITtW3mU9X2NyjUnjbBPNzdUWTxMp4eKmThIYsYtc_ARfQa9s8JgX5QrKJIGp7IFV1Q1YgApdXIYRYKaV0peRE3RW92CQbbzKkJ2SnbyCEJXiObdb7S-HglOjAlvQ-_cyzL2OohMWRMfZ2X3N7MT83nQgRNV86QhONVhO4zXqA3pgSdZS_yQwpykTpL3eBfWQzjQ8vlF0_6gXDEcBO-WIgLfkXwZE0diR7DTXrlszU5_Y-hMPLZedShD5P7RfDRpnfcTrwbWTeA&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+        "photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/quinzos6.jpg"
       }
     ],
-    "main_photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1600&photo_reference=Ab43m-vlbpMrjwxbpQu6a1kEiDi5UPmKYcroelH-lferXJ9F_9Amnzrpp7NwMD43PdWTlPz9gxwbDETOe3_hvwPPNVVgmlH0zynuzVhpQ3Q7AiiHCsEWny1bzkDsVRgFmeJHhIm3axI6ZVUDjxQvZ2Rd0BXfsicEn8F5Q_nHXJ37lsWNSkS5wiRR0EV-uUXIobsnQK0x0_7c2D0qeTE5goF-vBojdCNu5ddvKbuKl5ki4JTZdHtrS-D8YD5UiC58MNZxUf9E8NS1rB9aZpNTLL_99MgaHq5z3gKXf6G010_eM78UoXIwWklN84x57BOAxK2B9K2ZzdNA9upOXmDAtcUYwmWBYJ3FY61Iq0O_zYnybe4ZdOoR_1i0HyyACGSRE8OjlWCATK8HI9s5GaD5Qx5M4ITXJosPiwvpoHtRIUrU_BVYXg&key=AIzaSyCAx-vT1jrVkMby9szUsAPORWFlhEmExZE"
+    "main_photo_url": "https://test-cloudvault.s3.ap-south-1.amazonaws.com/quinzos.jpg"
   },
   "website_config": {
     "theme": "premium-minimal",
